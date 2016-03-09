@@ -1,0 +1,12 @@
+{
+  "name": "google-vision-api-tester",
+  "version": "0.1.0",
+  "description": "Google Image Vision test application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Kim",
+  "license": "MIT",
+  "authKey": "AUTH_JSON_FILE_PATH_HERE"
+}
